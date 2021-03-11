@@ -18,4 +18,4 @@ Title: Aritana and the Twin Masks
 Genre: Adventure, Indie
 Release Date: 25 Feb, 2021
 
-http://skidrowcodexreloaded.com/
+https://skidrowcodexreloaded.com/
